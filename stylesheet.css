@@ -1,11 +1,11 @@
+@import "tailwindcss";
+
 :root{
 --white: hsl(0, 0%, 100%);
 --slate-300: hsl(212, 45%, 89%);
 --slate-500: hsl(216, 15%, 48%);
 --slate-900: hsl(218, 44%, 22%);
 }
-
-@import "tailwindcss";
 
 @font-face{
     font-family: "Outfit";
